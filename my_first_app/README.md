@@ -2,39 +2,58 @@
 
 ---
 
-## Praktikum: aplikasi Flutter pertama
+## Praktikum: Aplikasi Flutter Pertama
 
-**Membuat dan menjalankan proyek**
-(screenshots/create.png)
+### Membuat dan Menjalankan Proyek
+![Membuat dan Menjalankan Proyek](screenshots/create.png)
 
-**mengubah UI default**
-sebelum (screenshots/run_def.png)
-sesudah (screenshots/run_change.png)
+### Mengubah UI Default
+- **Sebelum:**
+  
+  ![Tampilan Sebelum Diubah](screenshots/run_def.png)
+
+- **Sesudah:**
+  
+  ![Tampilan Sesudah Diubah](screenshots/run_change.png)
 
 ---
 
-## Git dan portofolio
-(screenshots/push.png)
+## Git dan Portofolio
+![Git dan Portofolio Push](screenshots/push.png)
 
-## Verifikasi, tugas, dan refleksi
+---
 
-**checklist verifikasi**
-- flutter doctor(screenshots/doctor.png)
-- ui yang diganti dengan profil sedeharna(screenshots/run_change.png)
-- hot reload: emperbarui tampilan tanpa mereset status (state) aplikasi
-- hot restart: memulai ulang aplikasi dari awal dan mereset seluruh status (state) aplikasi
-- repository remote (screenshots/push.png)
+## Verifikasi, Tugas, dan Refleksi
 
-**mini assignment**
-(screenshots/assignment.png)
+### Checklist Verifikasi
+- **Flutter Doctor:**
+  
+  ![Flutter Doctor](screenshots/doctor.png)
 
-**refleksi**
-- Kapan native lebih tepat dipilih daripada cross-platform?
-native dipilih saat aplikasi membutuhkan akses perangkat keras/sensor kompleks
+- **UI yang diganti dengan profil sederhana:**
+  
+  ![Profil Sederhana](screenshots/run_change.png)
 
-- Bagaimana perubahan state berhubungan dengan widget tree dan UI deklaratif?
-saat state berubah, cabang widget tree terkait akan dibangun ulang  untuk memperbarui tampilan antarmuka
+- **Hot Reload:** Memperbarui tampilan tanpa mereset status (*state*) aplikasi.
+- **Hot Restart:** Memulai ulang aplikasi dari awal dan mereset seluruh status (*state*) aplikasi.
+- **Repository Remote:**
+  
+  ![Repository Remote Push](screenshots/push.png)
 
-- Mengapa commit kecil dengan pesan jelas bermanfaat bagi pekerjaan tim dan portfolio?
-tim: Mempermudah pelacakan bug, mempercepat code review, dan mencegah merge conflict
-portofolio: Menunjukkan alur kerja yang terstruktur dan profesional
+---
+
+### Mini Assignment
+![Mini Assignment Profil Mahasiswa](screenshots/assignment.png)
+
+---
+
+### Refleksi
+- **Kapan native lebih tepat dipilih daripada cross-platform?**  
+  Native dipilih saat aplikasi membutuhkan akses perangkat keras/sensor kompleks.
+
+- **Bagaimana perubahan state berhubungan dengan widget tree dan UI deklaratif?**  
+  Saat state berubah, cabang widget tree terkait akan dibangun ulang untuk memperbarui tampilan antarmuka.
+
+- **Mengapa commit kecil dengan pesan jelas bermanfaat bagi pekerjaan tim dan portfolio?**  
+  - **Tim:** Mempermudah pelacakan bug, mempercepat code review, dan mencegah merge conflict.  
+  - **Portofolio:** Menunjukkan alur kerja yang terstruktur dan profesional.
