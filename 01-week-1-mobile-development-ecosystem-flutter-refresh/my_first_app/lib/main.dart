@@ -36,12 +36,12 @@ class ProfileCard extends StatelessWidget {
               const CircleAvatar(child: Icon(Icons.person)),
               const SizedBox(width: 12),
               Expanded(
-                child: Column(
+              child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const [
                     Text('Nama Mahasiswa',
                         style: TextStyle(fontWeight: FontWeight.bold)),
-                    Text('Arjuna Satria Hutama ganteng nan perkasa kemabaran michael jackson'),
+                    Text('Arjuna Satria Hutama lorem ipsum folor sit amet'),
                   ],
                 ),
               ),
