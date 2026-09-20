@@ -10,8 +10,10 @@
 ### eksperimen warmp-up
 1. Hapus Expanded pada baris nama, lalu amati peringatan overflow atau perilaku layout-nya; kembalikan setelah itu.
 - **hapus extended**
+    
     ![4.1](screenshots/4.1.png)
 - **undo extended**
+    
     ![4.1.1](screenshots/4.1.1.png)
 
 2. Ganti mainAxisSize: MainAxisSize.min menjadi nilai default dan amati perubahan tinggi kartu
@@ -27,8 +29,10 @@
 ### menyiapkan project
 ![5](screenshots/5.png)
 - **tampilan vertikal** 
+    
     ![5.1.1](screenshots/5.1.1.png)
 - **tampilan horizontal**
+    
     ![5.1.2](screenshots/5.1.2.png)
 
 ### Menambahkan interaksi: StatefulWidget dan Cupertino
@@ -86,15 +90,20 @@
 
 ## Refleksi
 - Apa perbedaan cara berpikir imperative dan declarative saat membangun UI?
-imperatif: mengubah UI secara manual melalui instruksi
-declarative: merender UI secara otomatis berdasarkan deskripsi state
+    
+    **imperatif: mengubah UI secara manual melalui instruksi**
+
+    **declarative: merender UI secara otomatis berdasarkan deskripsi state**
 
 - Kapan Expanded membantu dan kapan penggunaannya justru menghasilkan layout error?
 Membantu membagi sisa ruang di dalam Row dan Column. mMnyebabkan layout error jika ditaruh di dalam wadah tanpa batasan ukuran
 
 - Bagaimana breakpoint dan theme memengaruhi pengalaman pengguna?
-breakpoint:menyesuaikan tata letak secara responsif
-theme: menjaga konsistensi visual
+    
+    **breakpoint:menyesuaikan tata letak secara responsif**
+    
+    **theme: menjaga konsistensi visual**
 
 - Apa yang Anda verifikasi dari rekomendasi AI setelah tugas inti selesai?
-- kebenaran
+    
+    **kebenaran**
