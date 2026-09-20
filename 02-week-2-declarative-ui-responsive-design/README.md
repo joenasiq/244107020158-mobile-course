@@ -9,10 +9,10 @@
 
 ### eksperimen warmp-up
 1. Hapus Expanded pada baris nama, lalu amati peringatan overflow atau perilaku layout-nya; kembalikan setelah itu.
-**hapus extended**
-![4.1](screenshots/4.1.png)
-**undo extended**
-![4.1.1](screenshots/4.1.1.png)
+- **hapus extended**
+    ![4.1](screenshots/4.1.png)
+- **undo extended**
+    ![4.1.1](screenshots/4.1.1.png)
 
 2. Ganti mainAxisSize: MainAxisSize.min menjadi nilai default dan amati perubahan tinggi kartu
 ![4.2](screenshots/4.2.png)
@@ -27,9 +27,9 @@
 ### menyiapkan project
 ![5](screenshots/5.png)
 - **tampilan vertikal** 
-![5.1.1](screenshots/5.1.1.png)
+    ![5.1.1](screenshots/5.1.1.png)
 - **tampilan horizontal**
-![5.1.2](screenshots/5.1.2.png)
+    ![5.1.2](screenshots/5.1.2.png)
 
 ### Menambahkan interaksi: StatefulWidget dan Cupertino
 - **tampilan vertikal** 
