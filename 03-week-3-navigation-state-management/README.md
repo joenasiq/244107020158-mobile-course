@@ -69,7 +69,7 @@
 
 ---
 
-## Tugas, refleksi, dan referensi
+## Tugas dan refleksi
 
 ### Mini project / Industry Challenge
 ![7](screenshots/7.1.1.png)
