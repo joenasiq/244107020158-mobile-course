@@ -18,3 +18,4 @@ Repositori portofolio tugas dan praktikum mata kuliah **Pemrograman Mobile**.
 | Minggu 3 | [`03-week-3-navigation-state-management`](./03-week-3-navigation-state-management) | Aplikasi ToDo & Statistik dengan GoRouter, Riverpod (Notifier & AsyncNotifier), dan Automated Testing |
 | Minggu 4 | [`04-week-4-networking-rest-api`](./04-week-4-networking-rest-api) | Aplikasi Paged Posts dengan Dio, Riverpod, pagination, dan error handling jaringan |
 | Minggu 5 | [`05-week-5-local-storage-offline-first`](./05-week-5-local-storage-offline-first) | Aplikasi Offline Notes dengan SharedPreferences, SQLite (sqflite), dirty flag, dan antrean sinkronisasi (offline-first) |
+| Minggu 6 | [`06-week-6-authentication-security-fcm`](./06-week-6-authentication-security-fcm) | Aplikasi Campus Notify dengan auth aman (flutter_secure_storage), Dio auto-refresh 401, Firebase Cloud Messaging, dan deep link notifikasi |
